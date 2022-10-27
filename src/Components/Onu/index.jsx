@@ -12,7 +12,7 @@ export default function Onu(){
         <S.Container>
          <h3> Voltar para a <Link to="/">Home</Link></h3>
         <S.Text>
-            <h1>PROJETOS SOCIAIS</h1>
+            <h1>PROJETOS SOCIAIS PARA O BAIRRO DE CURICICA</h1>
             <p>Projetos sociais são um conjunto de ideias e ações que tem como objetivo melhorar um ou mais aspectos da sociedade, esses projetos podem ser desenvolvidos individualmente ou em grupo, mas para serem postos em prática 
                 necessitam do apoio da comunidade e de seus governantes.</p>
             <p>

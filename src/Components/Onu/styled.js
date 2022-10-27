@@ -72,6 +72,9 @@ div{
  div{
     display:none; 
 }  
+@media(max-width:800px){
+    height:200px;
+}
 `
 export const Div2 = styled.div`
     width:100%;
@@ -82,6 +85,11 @@ export const Div2 = styled.div`
     img{
         width:30%;
         height:40%;
+    }
+    @media(max-width:800px){
+       img{
+         height:30%;
+       }
     }
 `
 export const Luz = styled.button`
