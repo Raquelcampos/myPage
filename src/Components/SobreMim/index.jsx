@@ -19,7 +19,7 @@ export default function SobreMim(){
     <S.Box>
         <S.Div>
             <img src={raquel} alt="Raquel Campos" />
-            <p>Eu sou a Raquel, tenho 22 anos, sou desenvolvedora front-end, sou carioca e estou cursando  Física na UERJ. Eu amo programação e matematica e acho que as duas sao parecidas afinal a lógica é a base que ambas tem em comum! Eu gosto de estar sempre aprendendo e me renovando, estou sempre buscando cursos e me envolvendo em projetos que apoiam causas em que eu acredito e defendo como por exemplo o grupo das TechGirls que visa uma maior participação feminina em areas da tecnologia .    </p>
+            <p>Eu sou a Raquel, tenho 22 anos, sou desenvolvedora front-end, carioca e estou cursando  Física na UERJ. Eu amo programação e matematica e acho que as duas são parecidas afinal a lógica é a base que ambas tem em comum! Eu gosto de estar sempre aprendendo e me renovando, estou sempre buscando cursos e me envolvendo em projetos que apoiam causas em que eu acredito e defendo como por exemplo o grupo das TechGirls que visa uma maior participação feminina em areas da tecnologia .    </p>
             
         </S.Div>
         <S.Skills>
